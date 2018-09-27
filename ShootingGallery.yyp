@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "346c3042-5541-4ce0-b1df-ae93743d6b3b",
+            "Value": {
+                "id": "a8020131-556a-4b05-8530-2498fb9a8294",
+                "resourcePath": "objects\\obj_nook\\obj_nook.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3b91ee46-88a5-4df7-a315-121fc80f3845",
             "Value": {
                 "id": "0f7e9b0b-0695-4185-a8ef-cbf7cb04e7dc",

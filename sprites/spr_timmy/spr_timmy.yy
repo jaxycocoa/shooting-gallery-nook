@@ -2,7 +2,7 @@
     "id": "f69c8600-08c9-49d5-8437-5dced84adfc3",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite5",
+    "name": "spr_timmy",
     "For3D": false,
     "HTile": false,
     "VTile": false,
